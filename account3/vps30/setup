@@ -21,11 +21,11 @@ echo "1" > ~/db/sa 2>&1
 for i in {1..40}
 do
   rclone config delete $i
-  rclone config create $i drive scope=drive root_folder_id=0ANfYoMspa1TJUk9PVA service_account_file=~/vps01/$i.json team_drive=0ANfYoMspa1TJUk9PVA
+  rclone config create $i drive scope=drive root_folder_id=0ADWAUa_mnMioUk9PVA service_account_file=~/vps30/$i.json team_drive=0ADWAUa_mnMioUk9PVA
 done
 
 # PLOTTING
-screen -S p -dm ~/vps01/plot
+screen -S p -dm ~/vps30/plot
 
 # CRONJOB
-crontab -l | { cat; echo "* * * * * ~/vps01/upload >> ~/report/upload 2>&1"; } | crontab -
+crontab -l | { cat; echo "* * * * * ~/vps30/upload >> ~/report/upload 2>&1"; } | crontab -
