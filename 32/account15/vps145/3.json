@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mythic-fabric-351507",
+  "private_key_id": "d28089ad7d8273e975456a6baf0f6371c7375d7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYMpvaO0fMZMwl\niuoJnRW9d3yoLgVgkNhAQYuPvwLgwiI9gsLeJLwgilG1gicg9XttbwIHlCYTLDdD\n9FiffguP3/nR4/KzyxWhb7CrctojQqR58Hl8xyHPZElfP6iqn3GTWtB77lyqXBTs\nPUVImjqBr5+k38KKkKjlmSpydbK8YFJf+IiusWPYrjfeOVMgdjUEQpfT2DhX5sGA\naGm10uRUoOtN9U1fDjSKFB8d54aWy9/jcuXkd4qqDh7s0urhXVY0w2TyFhVMRzDc\nFVVjd2+7uPXjtAeBJfoQwCQcDaCdnec6pmwLGYHLyO9QimMuxeQY8FvIpbV4+qLj\nFP+gJ3mHAgMBAAECggEAJ90NB6wujO15BuMaTDN+srS5c3ko3KlYdmCfjx21NiQV\nlCnsLHGxjn5ymnkpJdadr4vsX+FdM+PPPORtAtuG3jx6H81cDvK/RkkF1lcTCbVc\nBm/ktrEw9sCTFtDyFKPZmUYBcxh8VZ0s7nJNuBlX+FmdohTwFgSeX9diEEDLeBgj\n1lJ8n0CQfq3KavLnf/Tdz7O05fBWyGHH+6J9SUrE7s9MsagQHNywyqUs06bszaTw\nJM37IAR2G1ntqxT6jWLQkXNC0j9ICIjcbwNZJ/RwgHJH/Mo4+eoRtcdSTOQJBKKu\nBoIqWgu0wvwr/sJYIr1I+068mavFRz8tqHaFd7WcwQKBgQDrdDWofSW3bUR6XHYi\nIOm5lyiyUPagbzOiwGAITf+0tpqq9JgnW0MZ9IzGa4BZHCSiW/4CPgU+XRLkYzKu\nZby2bCL/Qjhb8bQWvD+7xPsFxsxvpACWjmafgTlEJod0l1mvxHcIurgt1Zbq5Bec\n1W0CL3DjeGnQHwNdyb//OXBpSQKBgQDrEDwpSZYvyGjI7l8PuDCWG3bYALGzLhcF\nYgDnYmaAgruwx2zfaBvTgE1PhwV2baaxq8PeWpzgmZXxTPsLB4Ek56UjDJyuFlcA\nMk/2FdnfY0gI2mO/f9wsYWgHGsKi0OL2nDq5kzJSjIEvqeuNjNbP70QnYMAc4IYJ\ntCYDvlscTwKBgFAH3AU9JIjIdzIwI2dOUKNoociahHnb0m1LfljUSkoel0vsf5tB\nBfnYidEX0TR4wGr/YcNZWWbtM/K1VRC6O/61mt+wnn+CFHh13CPyvHAmNm7sC9cg\n5/jnb5OelQQoPa/k06D/9oJ9yyJkDTKdyMOpZHGtCCpZoEdMwBn8aB0hAoGBAJp7\n5f4AdarbnDoJpwIOvCe6zwUwl5i5vrlz6kInQlRNFwscVWoR4s/Cb4zHoQhvEfGM\ngEKe7KETbx7Rx988xFw7vSTmwgYLeowPhMunGrQcbJgc5xdQ8aNdNOAOb0JP5AnN\nLS8PFTB5VOG9W6iAmiC4D+ONS1TvHkg8VAt7zCczAoGBAI6epP1UCseJVnx3iznm\n0DVomMnTiU/wo7V63GAOoyMVKnQ3zHqpMTlhNU6/iXoSq8oQixu7QsR6mAmdTDfs\n2gLq5TyggNaZ50CKwd0+Efy93eOwHOreyOcac9q4osQPknFs+RroDQbUj/orRcYJ\nmIhDbcxga9CoSRDU62/jmZSI\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-c4rc3fm6s1dby14fmcyof2uxye@mythic-fabric-351507.iam.gserviceaccount.com",
+  "client_id": "109179726559983913277",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-c4rc3fm6s1dby14fmcyof2uxye%40mythic-fabric-351507.iam.gserviceaccount.com"
+}

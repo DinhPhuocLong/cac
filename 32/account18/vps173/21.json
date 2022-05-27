@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fair-kingdom-351507",
+  "private_key_id": "3c6f2c1bdc1c64feb964617eccf2a79c5c9201d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdm9+LBayaQvj+\nZbIKLipzo3Jg57e1i3h65qqsqfH4+oQjq13iJHVRfVyFisBDmv8+jbEh/5hFEQcy\n52jp95o7/peC69ahwr3IY5W0gOyUmIHckk4C9GS5tlsp4UhWtCOGRGwgtJyymKFn\ndW8h3leOdUaX21XmDaCNyRaeSvXAaOm1VOkA+7YVXw0xnaD2wb/aFhlM5iQT+G4u\niJhOsQF9lP65yNI1mcsDl4cE+eN8rUjFZFhGFJfgl6onja4SjX4LL12Wh4Lit+lq\nyEDf61tntHd3O0uO9wRicGw4Fa0VcUJU6KW9USDnomg/fVUR7y1kqWbaS54/CUGG\nmVZP7VH/AgMBAAECggEABAqrMV2/8KT+BfT0cLCA8IU2xGP1ssrYUQmgQ2Nd1qf0\nnvf9M4Ll8bpN3exgdiYHAC22H8GuzjqbubT0By8NIcHyjbU1GajzoNb1Xh3I7Dpe\nhUTIwswUnkgeJLG9F/1wfVSSMCoTT7zuJx01cE6D9GTguvKGk6rAklI798Cmrzxe\nTARPR1m/OPSP4JOXlzEhzpNpz2BkbGtPN8X1eXWlzjfkjrTLeo5m+D0biq9kkYEF\n5m/H2vIi3NZmIuXaxkd2eqb05eTkJDSd21BhaIInDW3IADUwC74OMDn05EJz/MyY\nknOQS7OKbNS5C+aX75CF735TgSc8z0gJC5Y6oCKzLQKBgQDU/1qGrW8yeDaDuSkS\nRd9SAEV21BXBkNChiJKJM+Sa7gHmn0RmFP3GHaQN5OmWCS65e0iTkg5oDR/aOdyg\nZzJm9FQjE3StgT+Xt+O0rAlNEYP8BZ2E8v0mV00pTrsAx026dyNIThwYvqJNGXJj\neWkLYAhFGckZaC9RkIuThIXO8wKBgQC9bcsZ6dkUlqqj2j6XfbP6e7zBsmM7UTU+\nDxkdiYmVGYr4bh/KqNt+HGmgZ/InfK3hPyw3piwcd8DqYSOKxqUqasfVUH3E47Pv\nx+2nQeNBwnEntXCuw5lfB13jg6zXJ6fJLEHWJ4Ma1u8Dc51G/hSf/SAnnHcD+A53\nHVIHlxTrxQKBgQCtnrx+3W6vuBfPxaW59GS2Jex5kSVu1AmMMpQn7LnipDG+eIK7\np065KD4q6TaSi0ef/+NIDx1ZKaGWM+YohhYqn+zZbqmEKL/afxXIlxc50BZC35zn\n214I287U5g0+9Dbi0OxcqvbyIKqRqDV66mN61zvGf99Rq4Auv2FWzQZ5iwKBgBc6\nM0FGL1wa7WmSBULGIx9/tLF7kjdfycuGRmocx0YFD8lOl49eDSv1h+4nUMYOv7Ny\n75UTRy1mcb1Lk/QcT3xYA5Dggct2sEWimj18EsWpdf6MfPiw+0lvuc+AAd2P+z7r\nslb0GVtdJ4mgz5Q464aCn0K8KMvPytZIPhq4J9SRAoGAPoPxKaKuTOaWyv7ulMKN\nLwnTLREobdIdhV8g0PLyr5pr0fpBJbPKiUYRm/T+VaqrHOaUMFNMzHey2l/Vxde9\nbuIhONEuqIZmh8xTEyXcaiCnZDjhQ49B+L/qT+kVFJ60CY12lIEpMXsJSzn8Nbv6\nNrgJIivlogWkZCDGS+0wltE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-owqanv36lu84az0y1a0p8gkdui@fair-kingdom-351507.iam.gserviceaccount.com",
+  "client_id": "110230727465688152736",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-owqanv36lu84az0y1a0p8gkdui%40fair-kingdom-351507.iam.gserviceaccount.com"
+}
